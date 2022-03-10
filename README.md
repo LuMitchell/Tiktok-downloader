@@ -1,9 +1,7 @@
 # Tiktok-downloader
 Tiktok downloader without watermark
 
-- [https://dlpanda.com](DLPanda.com)
-
-
-- [https://ssstik.io](ssstik.io)
-- [https://snaptik.app](snaptik.app)
-- [https://qload.info](qload.info)
+- [DLPanda]https://dlpanda.com)
+- [ssstik.io](https://ssstik.io)
+- [snaptik.app](https://snaptik.app)
+- [qload.info](https://qload.info)
